@@ -1,0 +1,11 @@
+C:\Users\AHK\source\repos\AHKProject2\AHKProject2\bin\Debug\AHKProject2.exe.config
+C:\Users\AHK\source\repos\AHKProject2\AHKProject2\bin\Debug\AHKProject2.exe
+C:\Users\AHK\source\repos\AHKProject2\AHKProject2\bin\Debug\AHKProject2.pdb
+C:\Users\AHK\source\repos\AHKProject2\AHKProject2\obj\Debug\AHKProject2.csproj.AssemblyReference.cache
+C:\Users\AHK\source\repos\AHKProject2\AHKProject2\obj\Debug\AHKProject2.csproj.SuggestedBindingRedirects.cache
+C:\Users\AHK\source\repos\AHKProject2\AHKProject2\obj\Debug\AHKProject2.Form1.resources
+C:\Users\AHK\source\repos\AHKProject2\AHKProject2\obj\Debug\AHKProject2.Properties.Resources.resources
+C:\Users\AHK\source\repos\AHKProject2\AHKProject2\obj\Debug\AHKProject2.csproj.GenerateResource.cache
+C:\Users\AHK\source\repos\AHKProject2\AHKProject2\obj\Debug\AHKProject2.csproj.CoreCompileInputs.cache
+C:\Users\AHK\source\repos\AHKProject2\AHKProject2\obj\Debug\AHKProject2.exe
+C:\Users\AHK\source\repos\AHKProject2\AHKProject2\obj\Debug\AHKProject2.pdb

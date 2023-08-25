@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AHKProject2", "AHKProject2\AHKProject2.csproj", "{52091B0A-BE55-4543-945A-CBC2DB312403}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52091B0A-BE55-4543-945A-CBC2DB312403}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52091B0A-BE55-4543-945A-CBC2DB312403}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52091B0A-BE55-4543-945A-CBC2DB312403}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52091B0A-BE55-4543-945A-CBC2DB312403}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B4460FF-CF99-48A9-AFE6-958E18C37B77}
+	EndGlobalSection
+EndGlobal
